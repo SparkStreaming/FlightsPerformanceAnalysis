@@ -45,6 +45,12 @@ It appears to contain all the columns in the official data set.
 # Problem statement
 Find out no. of cancellations for airlines.
 
+# Pre-requisites
+1.	Scala 2.11.8
+2.	Sbt 0.13
+3.	Spark 1.6.0
+4.	Kafka 2.1.1
+
 # Building and running
 
 Core input source - Local file
