@@ -53,6 +53,9 @@ Find out no. of cancellations for airlines.
 
 # Building and running
 
+Before running any of the below clean and compile code by running
+sbt clean compile
+
 Core input source - Local file
 
 sbt "run-main com.github.streaming.sparkflights.experiments.FlightsMainStream /home/cloudera/Downloads/streaming_data/On_Time_On_Time_Performance_2017_1.csv"
