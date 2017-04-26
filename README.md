@@ -54,6 +54,7 @@ Find out no. of cancellations for airlines.
 # Building and running
 
 Before running any of the below clean and compile code by running
+
 sbt clean compile
 
 Core input source - Local file
